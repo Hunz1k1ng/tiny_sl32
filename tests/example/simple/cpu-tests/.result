@@ -1,0 +1,16 @@
+[    quick-sort] [1;31mFAIL![0m
+[        pascal] [1;31mFAIL![0m
+[         mov-c] [1;31mFAIL![0m
+[        string] [1;31mFAIL![0m
+[           div] [1;31mFAIL![0m
+[           sum] [1;31mFAIL![0m
+[     leap-year] [1;31mFAIL![0m
+[           max] [1;31mFAIL![0m
+[   select-sort] [1;31mFAIL![0m
+[       unalign] [1;31mFAIL![0m
+[   shuixianhua] [1;31mFAIL![0m
+[    matrix-mul] [1;31mFAIL![0m
+[         movsx] [1;31mFAIL![0m
+[           bit] [1;31mFAIL![0m
+[           add] [1;31mFAIL![0m
+[       if-else] [1;31mFAIL![0m
